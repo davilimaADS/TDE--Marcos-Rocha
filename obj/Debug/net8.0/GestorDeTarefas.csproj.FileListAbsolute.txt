@@ -1,0 +1,14 @@
+C:\Users\Davi\Documents\Trabalhos Facul\POO\GestorDeTarefas\obj\Debug\net8.0\GestorDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Documents\Trabalhos Facul\POO\GestorDeTarefas\obj\Debug\net8.0\GestorDeTarefas.AssemblyInfoInputs.cache
+C:\Users\Davi\Documents\Trabalhos Facul\POO\GestorDeTarefas\obj\Debug\net8.0\GestorDeTarefas.AssemblyInfo.cs
+C:\Users\Davi\Documents\Trabalhos Facul\POO\GestorDeTarefas\obj\Debug\net8.0\GestorDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Documents\Trabalhos Facul\POO\GestorDeTarefas\bin\Debug\net8.0\GestorDeTarefas.exe
+C:\Users\Davi\Documents\Trabalhos Facul\POO\GestorDeTarefas\bin\Debug\net8.0\GestorDeTarefas.deps.json
+C:\Users\Davi\Documents\Trabalhos Facul\POO\GestorDeTarefas\bin\Debug\net8.0\GestorDeTarefas.runtimeconfig.json
+C:\Users\Davi\Documents\Trabalhos Facul\POO\GestorDeTarefas\bin\Debug\net8.0\GestorDeTarefas.dll
+C:\Users\Davi\Documents\Trabalhos Facul\POO\GestorDeTarefas\bin\Debug\net8.0\GestorDeTarefas.pdb
+C:\Users\Davi\Documents\Trabalhos Facul\POO\GestorDeTarefas\obj\Debug\net8.0\GestorDeTarefas.dll
+C:\Users\Davi\Documents\Trabalhos Facul\POO\GestorDeTarefas\obj\Debug\net8.0\refint\GestorDeTarefas.dll
+C:\Users\Davi\Documents\Trabalhos Facul\POO\GestorDeTarefas\obj\Debug\net8.0\GestorDeTarefas.pdb
+C:\Users\Davi\Documents\Trabalhos Facul\POO\GestorDeTarefas\obj\Debug\net8.0\GestorDeTarefas.genruntimeconfig.cache
+C:\Users\Davi\Documents\Trabalhos Facul\POO\GestorDeTarefas\obj\Debug\net8.0\ref\GestorDeTarefas.dll
